@@ -7,6 +7,10 @@
   * 源代码放在Google Code：http://code.google.com/p/g-proxy/
   * 发布说明(**_功能讨论_**) ：http://blog.liuhongwei.cn/my-opensource/g-proxy-free-https/
 
+## Code license
+[GNU GPL v3](http://www.gnu.org/licenses/gpl.html)
+
+
 ## 欢迎访问 #
 
   * Blog: blog.liuhongwei.cn
